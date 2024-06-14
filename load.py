@@ -12,7 +12,7 @@ import torch.nn.functional as F
 from torchvision.utils import save_image #save a ggiven tensor into img file
 from torchvision.utils import make_grid #make a grid of imgs
 import matplotlib.pyplot as plt
-from torch.utils.tensorboard import SummaryWriter
+#from torch.utils.tensorboard import SummaryWriter
 
 
 #Load dataset with ImageFolder
